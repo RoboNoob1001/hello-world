@@ -18,4 +18,7 @@ body {
 
 .txt {
     size: 100;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
 }
