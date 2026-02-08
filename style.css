@@ -18,9 +18,8 @@ body {
 }
 
 .txt {
-    -color: yellow;
     size: 20dvb;
-    color: var(-color);
+    color: yellow;
     width: fit-content;
     height: fit-content;
     text-align: center;
