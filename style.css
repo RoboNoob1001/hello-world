@@ -4,10 +4,10 @@
 }
 
 .main-cont {
-    justify-content: center;
+    justify-items: center;
     align-items: center;
 }
 
 .txt {
-    size: 100px;
+    size: 100;
 }
