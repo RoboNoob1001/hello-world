@@ -4,9 +4,9 @@
 }
 
 body {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     height: 100vh;
     /* margin: auto; */
 }
@@ -18,7 +18,9 @@ body {
 }
 
 .txt {
+    -color: yellow;
     size: 20dvb;
+    color: var(-color);
     width: fit-content;
     height: fit-content;
     text-align: center;
