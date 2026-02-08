@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+body {
+    display: flex;
+}
+
 .main-cont {
     display: flex;
     justify-items: center;
